@@ -1,1 +1,1 @@
-web: java -jar target/rest-0.0.1-SNAPSHOT.jar
+web: java -jar target/warhammerApi-0.0.1-SNAPSHOT.jar

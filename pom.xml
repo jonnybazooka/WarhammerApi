@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>org.tgieralt</groupId>
-	<artifactId>rest</artifactId>
+	<artifactId>warhammerApi</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>warhammerApi</name>
 	<description>Demo project for Spring Boot</description>
